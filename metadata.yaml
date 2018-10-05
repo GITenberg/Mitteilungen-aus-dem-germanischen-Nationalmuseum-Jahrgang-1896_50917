@@ -20,5 +20,7 @@ language: de
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Mitteilungen aus dem germanischen Nationalmuseum. Jahrgang 1896
 url: http://www.gutenberg.org/ebooks/50917
